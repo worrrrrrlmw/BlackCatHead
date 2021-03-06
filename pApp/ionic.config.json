@@ -1,0 +1,7 @@
+{
+  "name": "pApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
